@@ -3,7 +3,7 @@ const islands = [
     id: 1,
     name: "Failaka",
     img: "https://www.gckuwait.com/wp-content/uploads/2017/01/gulf-consult-Failaka-Island-Master-Plan1-1.jpg",
-    visitors: 0,
+    visitors: 2,
   },
   {
     id: 2,
